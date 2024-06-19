@@ -1,10 +1,10 @@
 package io.hexlet;
 
-import helxlet.code.Validator;
-import helxlet.code.schema.BaseSchema;
-import helxlet.code.schema.MapSchema;
-import helxlet.code.schema.NumberSchema;
-import helxlet.code.schema.StringSchema;
+import hexlet.code.Validator;
+import hexlet.code.schemas.BaseSchema;
+import hexlet.code.schemas.MapSchema;
+import hexlet.code.schemas.NumberSchema;
+import hexlet.code.schemas.StringSchema;
 import org.junit.jupiter.api.Test;
 
 import java.util.HashMap;
