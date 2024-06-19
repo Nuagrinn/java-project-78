@@ -14,3 +14,6 @@ code-run:
 
 check-updates:
 	./gradlew dependencyUpdates
+
+report:
+	make -C app report
